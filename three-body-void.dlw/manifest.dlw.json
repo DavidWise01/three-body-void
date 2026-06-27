@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-THREE_BODY_VOID",
+  "name": "THREE-BODY - VOID",
+  "universe": "PSĒPHOS",
+  "moniker": "⟦THREE-BODY - VOID:three-body-void:0a02ac⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "0a02ac249ccbe8ddbe14cfc0bdf9fe9cf56ebbd529ba72d7f8e11779dd9c7708",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
